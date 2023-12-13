@@ -1,9 +1,19 @@
-[id="test_file_{context}"]
+[cols=2*]
+|===
+|Firefox
+|Web Browser
 
-= Chapter 1. My favorite stuff
+|Ruby
+|Programming Language
 
-Your favorite color: green
+|TorqueBox
+|Application Server
+|===
 
-Your favorite ice-cream flavor: Mint
-
-Your favorite animal: Cat
+[cols=2]
+|======================
+| Memory     | 16Gb RAM
+| CPU        | 4 CPU   
+| Disk space | 40Gb    
+| Disk IOPs  | 1500    
+|======================
