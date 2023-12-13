@@ -1,19 +1,22 @@
-[cols=2*]
+[cols="33%,33%,33%",33%",options="header"]
 |===
 |Firefox
 |Web Browser
-
 |Ruby
+|Jade
+
 |Programming Language
-
+|Programming Language
 |TorqueBox
-|Application Server
-|===
+|TorqueBox
 
-[cols=2]
-|======================
-| Memory     | 16Gb RAM
-| CPU        | 4 CPU   
-| Disk space | 40Gb    
-| Disk IOPs  | 1500    
-|======================
+|Application Server
+|Jade
+|Programming Language
+|TorqueBox
+
+|Sapphire 
+|Application Server
+|Programming Language
+|TorqueBox
+|===
